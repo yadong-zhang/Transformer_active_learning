@@ -1,0 +1,1 @@
+python test.py --num_iterations 20 --batch_size 25 --exp_name baseline --dataset sst2 --random_seed 42 --query_strategy Ent --uncertainty_method softmax --initially_labeled_samples 25 --transformer_model_name bert-base-uncased --gpu_device 0 --uncertainty_clipping 0.9 --lower_is_better True
