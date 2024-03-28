@@ -1,6 +1,4 @@
-> Code for Research Paper "To Softmax, or not to Softmax: that is the question when applying Active Learning for Transformer Models"
-<hr>
-
+# Multi-task Natural Language Understanding with Transformers and Active Learning
 ## Running the experiments
 First, make sure to install the needed dependecies as defined in `Pipfile`, preferably using Pipenv.
 
